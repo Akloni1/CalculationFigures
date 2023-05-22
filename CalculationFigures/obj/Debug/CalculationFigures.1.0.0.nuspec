@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CalculationFigures</id>
+    <version>1.0.0</version>
+    <authors>CalculationFigures</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Михаил\source\repos\CalculationFigures\bin\Debug\net6.0\CalculationFigures.dll" target="lib\net6.0\CalculationFigures.dll" />
+  </files>
+</package>
